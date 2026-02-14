@@ -2,17 +2,21 @@
 title: Menu principal
 items:
 - title: La formation
+  slug: la-formation
   target: "/formations/agroecologie-et-design-des-paysages-nourriciers/"
   kind: program
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/programs/agroecologie-et-design-des-paysages-nourriciers"
   file: content/fr/programs/agroecologie-et-design-des-paysages-nourriciers/_index.html
 - title: L'École du Jardin Planétaire
+  slug: l-ecole-du-jardin-planetaire
   target: "/lecole-du-jardin-planetaire/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/lecole-du-jardin-planetaire"
   file: content/fr/pages/lecole-du-jardin-planetaire/_index.html
 
